@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "recipes-26534": {
+      "hosting": {
+        "app": [
+          "recipes-26534"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "recipes-26534"
+  }
+}
